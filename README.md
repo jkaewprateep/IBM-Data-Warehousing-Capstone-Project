@@ -13,6 +13,8 @@ IBM-Data Warehousing Capstone Project
 [Hacker Rank SQL (Advance)]( https://www.hackerrank.com/certificates/f225fa371510 ) </br>
 
 ### Sample ETL Shell Script - MySQL ###
+🧸💬 There are multiple applications and event activation functions that can perform pre-build script and online statements into sequence and update commands for automation process where task scheduling, automation process management system, and IBM Apache Spark ( Airflow ) are allowed to create event update, communication messages, logging and monitoring platforms, report and evaluation for performance and detail information for investigation and development. They are known by many customers and working platforms - micro services but do not miss understanding batch and an automation process is not micro-services but they can perform tasks with application workflow to complete solutions as planned with success results that are micro-services. Micro-services include database services, and database integration and database report services because they can fulfill the solution requirements.
+
 ```
 #!/bin/sh
 
