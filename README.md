@@ -59,7 +59,7 @@ mysql --host=mysql --port=3306 --user=root --password=<Replace with your mysqlse
 
 🐯💬 Localization and F-view support application we can perform data integration with feed of data requirements from API request with Culture-INFO. </br>
 
-🍳💬 That is I-frames we can build with multiple integrated systems. </br>  
+🍳💬 That is I-frames we can build with multiple integrated systems. </br>
 🧸💬 That is the same thing and do not like the flying wing⁉️ </br>
 🍳💬 That is because it works in the airline business too but people may have multiple recognition of the application names. </br>
 🧸💬 F-wings F-wings⁉️ </br>
