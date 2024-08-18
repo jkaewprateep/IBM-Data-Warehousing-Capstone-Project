@@ -17,7 +17,7 @@ IBM-Data Warehousing Capstone Project
 
 🦁💬 Not only databases, statistics, reports and dataset return applications but web applications, communication applications, security and controls, and applications can work as micro-services since they perform tasks in their predictable manners and provide good results for the solution, trackable and evaluation create a good performance. </br>
 
-🐑💬 ➰ Our applications are considered micro-services and communication endpoints can be created at both client and server, working seamlessly with data trackings and message guarantee services with high-standard communications and IT project implementation. 
+🐑💬 ➰ Our applications are considered micro-services and communication endpoints can be created at both client and server, working seamlessly with data trackings and message guarantee services with high-standard communications and IT project implementation. There are some monitoring, communication fields data values transfer, import-export, realtime, and schedule data services where we can track new and updated data and communication in realtime with events sent to the communication hub for action response and guarantee database records management and backup management plan. </br>
 
 ```
 #!/bin/sh
