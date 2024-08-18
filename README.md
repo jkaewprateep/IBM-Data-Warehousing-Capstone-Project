@@ -49,6 +49,8 @@ mysql --host=mysql --port=3306 --user=root --password=<Replace with your mysqlse
 ```
 
 ### Sample ETL Shell Script - Postgre ####
+🦭💬 There are multiple data integration endpoints but important we are select data integration methods by criteria where they need time response, amount of the data, update of related key, communication key ( foreign key tables and CTI data ), and target integration system because sometimes we need priority data as in application data flow design and scalability of the method. There are several times found that the CTI method is fast and easy to manage with tools, pre-build script templates, design, and data integrity but with the amount of data and a number of system integrations batch processes and updates perform best for the solution and adaptive for the operational process. </br>
+
 ```
 #!/bin/sh
 
