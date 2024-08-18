@@ -19,6 +19,8 @@ IBM-Data Warehousing Capstone Project
 
 🐑💬 ➰ Our applications are considered micro-services and communication endpoints can be created at both client and server, working seamlessly with data trackings and message guarantee services with high-standard communications and IT project implementation. There are some monitoring, communication fields data values transfer, import-export, realtime, and schedule data services where we can track new and updated data and communication in realtime with events sent to the communication hub for action response and guarantee database records management and backup management plan. </br>
 
+🦁💬 In database services and communication services they are message tracking and guarantee message communication but do not restart the server during the process, I understand file-based management as a Microsoft directory and recordings system but the design of database architecture reliability database needs to full 100% online application had self-recovery features. </br>
+
 ```
 #!/bin/sh
 
