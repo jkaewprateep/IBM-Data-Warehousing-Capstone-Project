@@ -93,7 +93,7 @@ create table FactSales(rowid int,product_id int,customer_id int,price decimal,to
 
 ### SQL Statement - aggregate tails data ###
 🦭💬 When group aggregate and concatenate command is not enough you may be familiar with pre-grouping and taking, you can perform grouping at the tail of the dataset return from a select statement by CUBE ROLLUP that saves time to build the request and response command without command concatenation or create a temporary table, material table or views. </br>
-🦭💬  IT requirements negotiations temporary views and single object are not allowed in the system, ALL objects need schemas and concatenate selection required to have views and schemas their own. </br>
+🦭💬  IT requirements negotiations temporary views and single objects are not allowed in the system, ALL objects need schemas, and concatenate selection is required to have views and schemas their own. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/cube.png">
@@ -102,6 +102,7 @@ create table FactSales(rowid int,product_id int,customer_id int,price decimal,to
 </p>
 
 ### SQL Statement - grouping set ###
+🐣💬 Our database is simply enabled of all features and all information and their requirements are proven and real, and can be performed by daily operation, manual operation, automation process, and application. The application can perform tasks as user permission granted and authorized but they process and the results need to be proved and guaranteed because all infomration can be accessed under the name of authority, application demonstration needs to be performed by the proved company name. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/groupingsets.png">
