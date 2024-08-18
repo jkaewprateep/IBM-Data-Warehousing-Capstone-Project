@@ -68,4 +68,10 @@ create table FactSales(rowid int,product_id int,customer_id int,price decimal,to
     <b> Pictures from the Internet </b> </br>    
 </p>
 
+### SQL Statement - grouping set ###
 
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/groupingsets.png">
+    <img width="26.5%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/kana.png"> </br>
+    <b> Pictures from the Internet </b> </br>    
+</p>
