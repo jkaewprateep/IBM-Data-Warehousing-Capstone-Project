@@ -60,4 +60,12 @@ create table FactSales(rowid int,product_id int,customer_id int,price decimal,to
     <b> Pictures from the Internet </b> </br>    
 </p>
 
+### SQL Statement - aggregate tails data ###
+
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/cube.png">
+    <img width="26.5%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/006862000_1475647022-kotaku.png"> </br>
+    <b> Pictures from the Internet </b> </br>    
+</p>
+
 
