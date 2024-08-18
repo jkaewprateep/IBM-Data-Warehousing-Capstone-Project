@@ -82,6 +82,8 @@ create table FactSales(rowid int,product_id int,customer_id int,price decimal,to
 ```
 
 ### Automation process with Shell Script and Python ###
+💃( 👩‍🏫 )💬 We are looking data engineer for Airflow that was about 10 years ago but with time the application Airflow has had a high impact in the market but is not popular in Thailand, today it is back in the IBM brand called Apache Spark. </br>
+🦤💬 In the picture example is only task management where they had GUI, database management, notification and monitoring, message filters, and automation task builders. Working with automation tasks is a trend as finding a boot for a party once you find of matching you where it everywhere even in your neighbors, selecting the application process and maintaining the same once they are fit to match that is forever. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/extract_load_data.png">
