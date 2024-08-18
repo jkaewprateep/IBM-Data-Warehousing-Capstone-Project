@@ -52,6 +52,8 @@ create table DimDate(dateid int,day varchar(20),month varchar(30),year varchar(5
 create table FactSales(rowid int,product_id int,customer_id int,price decimal,total_price decimal);"
 ```
 
+### Automation process with Shell Script and Python ###
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/extract_load_data.png">
     <img width="20%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/2648452-takeshigouda.jpg"> </br>
