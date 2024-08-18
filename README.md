@@ -102,7 +102,8 @@ create table FactSales(rowid int,product_id int,customer_id int,price decimal,to
 </p>
 
 ### SQL Statement - grouping set ###
-🐣💬 Our database is simply enabled of all features and all information and their requirements are proven and real, and can be performed by daily operation, manual operation, automation process, and application. The application can perform tasks as user permission granted and authorized but they process and the results need to be proved and guaranteed because all infomration can be accessed under the name of authority, application demonstration needs to be performed by the proved company name. </br>
+🐣💬 Our database is simply enabled of all features and all information and their requirements are proven and real, and can be performed by daily operation, manual operation, automation process, and application. The application can perform tasks as user permission is granted and authorized but the process and the results need to be proved and guaranteed because all infomration can be accessed under the name of authority, and application demonstration needs to be performed by the proved company name. </br>
+🐣💬 The groupsets command performs multiple data record aggregation level display and can compare within the single view, groupsets allow multiple groups of target access by each level of authority. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/groupingsets.png">
