@@ -15,7 +15,9 @@ IBM-Data Warehousing Capstone Project
 ### Sample ETL Shell Script - MySQL ###
 🧸💬 There are multiple applications and event activation functions that can perform pre-build script and online statements into sequence and update commands for automation process where task scheduling, automation process management system, and IBM Apache Spark ( Airflow ) are allowed to create event update, communication messages, logging and monitoring platforms, report and evaluation for performance and detail information for investigation and development. They are known by many customers and working platforms - as microservices but do not miss understanding batch and an automation process is not micro-services but they can perform tasks with application workflow to complete solutions as planned with successful results that are micro-services. Micro-services include database services, and database integration and database report services because they can fulfill the solution requirements. </br>
 
-🦁💬 Not only databases, statistics, reports and dataset return applications but web applications, communication applications, security and controls, and applications can work as micro-services since they perform tasks in their predicable manners and provide good results for the solution, trackable and evaluation create a good performance. </br>
+🦁💬 Not only databases, statistics, reports and dataset return applications but web applications, communication applications, security and controls, and applications can work as micro-services since they perform tasks in their predictable manners and provide good results for the solution, trackable and evaluation create a good performance. </br>
+
+🐑💬 ➰ Our applications are considered micro-services and communication endpoints can be created at both client and server, working seamlessly with data trackings and message guarantee services with high-standard communications and IT project implementation. 
 
 ```
 #!/bin/sh
