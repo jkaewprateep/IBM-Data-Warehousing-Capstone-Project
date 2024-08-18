@@ -53,6 +53,10 @@ mysql --host=mysql --port=3306 --user=root --password=<Replace with your mysqlse
 
 🐐💬 By design there are several types of system databases and data integrity because of flat IT infrastructure design for working maintenance and accessibility, all communication networks are managed and monitored the same as user accessibility because any time permission is granted allows users can perform their tasks anywhere inside of the authorized solution. The system design of both system admin management tasks development and system performance and security. Multiple systems with the same functions may have a small difference in syntax operation commands when users may need time or preparation. For example Oracle SQL statement and Microsoft SQL statement with colons and we enchanted command case sensitivity, specific schemas, multiple-way access data sources, and created views or custom schemas for operational tasks. New users from administrative will have a difficult time even using multiple-purpose software applications or creating new data adaptors. </br>
 
+🦁💬 Schemas management and local administrative policy support by appliation since programming and logic are created with permissions authorization design, working with data migration but security for data backup and transformation. One problem is recording are managed by the application itself the integration can be performed from their client and server for report and evaluation, statistics monitoring, update surveys reports, evaluation reports, and supervisor actions. </br>
+
+🐑💬 ➰ It is possible and does not need to perform database access or duplicate encryption algorithms we can generate hyperlink addresses and data integration API for query and request data records, update statistics, perform the action, and some path of the integration from the communiation hub. </br>
+
 ```
 #!/bin/sh
 
